@@ -31,7 +31,7 @@ build: off
 notifications:
   - provider: Email
     to:
-      - housecor@gmail.com
+      - mcgee.marty@gmail.com
     subject: "Build failed: react-juice"
     message: The continuous integration build failed. See https://ci.appveyor.com/project/marty-mcgee/react-juice/ for details.
     on_build_success: false
